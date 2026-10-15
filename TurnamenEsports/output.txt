@@ -1,0 +1,90 @@
+=== DAFTAR PESERTA ===
+=== PEMAIN ===
+ID: P01
+Nama: Andi
+Nickname: Shadow
+Jumlah Kill: 10
+Total Poin: 0
+Jumlah Pertandingan: 0
+Status: BELUM_DIMULAI
+
+=== PEMAIN ===
+ID: P02
+Nama: Budi
+Nickname: Blaze
+Jumlah Kill: 7
+Total Poin: 0
+Jumlah Pertandingan: 0
+Status: BELUM_DIMULAI
+
+=== TIM ===
+ID: T01
+Nama Tim: Garuda Esports
+Jumlah Anggota: 5
+Jumlah Kemenangan: 0
+Total Poin: 0
+Jumlah Pertandingan: 0
+Status: BELUM_DIMULAI
+
+=== TIM ===
+ID: T02
+Nama Tim: Phoenix Squad
+Jumlah Anggota: 4
+Jumlah Kemenangan: 0
+Total Poin: 0
+Jumlah Pertandingan: 0
+Status: BELUM_DIMULAI
+
+=== SIMULASI PERTANDINGAN ===
+Andi memperoleh 60 poin.
+Budi memperoleh 47 poin.
+Garuda Esports memperoleh 125 poin.
+Phoenix Squad memperoleh 100 poin.
+
+=== PERHITUNGAN HADIAH ===
+Andi mendapat hadiah: Rp600000
+Budi mendapat hadiah: Rp470000
+Garuda Esports mendapat hadiah: Rp3125000
+Phoenix Squad mendapat hadiah: Rp2500000
+
+=== UJI CUSTOM EXCEPTION ===
+Berhasil menangani exception: Pertandingan harus dimulai terlebih dahulu!
+Berhasil menangani exception: Hadiah belum bisa dihitung karena pertandingan belum selesai!
+
+=== STATUS AKHIR PESERTA ===
+=== PEMAIN ===
+ID: P01
+Nama: Andi
+Nickname: Shadow
+Jumlah Kill: 10
+Total Poin: 60
+Jumlah Pertandingan: 1
+Status: SELESAI
+
+=== PEMAIN ===
+ID: P02
+Nama: Budi
+Nickname: Blaze
+Jumlah Kill: 7
+Total Poin: 47
+Jumlah Pertandingan: 1
+Status: SELESAI
+
+=== TIM ===
+ID: T01
+Nama Tim: Garuda Esports
+Jumlah Anggota: 5
+Jumlah Kemenangan: 1
+Total Poin: 125
+Jumlah Pertandingan: 1
+Status: SELESAI
+
+=== TIM ===
+ID: T02
+Nama Tim: Phoenix Squad
+Jumlah Anggota: 4
+Jumlah Kemenangan: 0
+Total Poin: 100
+Jumlah Pertandingan: 1
+Status: SELESAI
+
